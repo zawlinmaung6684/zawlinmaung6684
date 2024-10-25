@@ -1,4 +1,4 @@
-### 👋 Hi, my name is Zaw Lin Maung. I'm a data analyst based in Myanmar.
+### 👋 Hi, my name is Zaw Lin Maung. I'm a data analyst.
 - 👀 I’m interested in all about data science and machine learning.
 - 🌱 Currently, I'm focusing on understanding ML concepts and frameworks while doing some small projects at the same time.
 - 💞️ I’m looking for help with TensorFlow.
